@@ -7,7 +7,7 @@ Product Reviews
 
 ## Dataset Size
 - Total Sentences: 10,000
-- Labeled Sentences: 1,000
+- Labeled Sentences: 1,000(you can use annotation to label the data and get the csv file automatically
 
 ## Annotation Labels
 
